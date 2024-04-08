@@ -1,0 +1,30 @@
+.image{
+    background-image: url('../../assets/bg2.jpg');
+    height: 650px;
+    width: 800px;
+    background-size: cover;
+}
+.register{
+  
+        /* padding:50px; */
+        /* margin-left: 150px; */
+        /* margin-right: 580px; */
+        /* margin-top: 150px; */
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* margin-top: 1000; */
+        /* background-color: white; */
+        /* height: 400;  */
+
+    padding:40px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-left: 150px;
+    
+}
+
+.title{
+    margin-top: 320px;
+    margin-left: 180px;
+    color: aquamarine;
+}

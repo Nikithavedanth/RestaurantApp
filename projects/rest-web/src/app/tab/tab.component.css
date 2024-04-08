@@ -1,0 +1,21 @@
+.tab{
+    padding: 20px;
+    /* background-color: white; */
+    margin-top: 5;
+    margin-bottom:10;
+    flex-direction: row;
+    z-index: 100;
+    /* margin-right: 100   ; */
+    justify-content: space-between;
+    /* font-family: 'Courier New', Courier, monospace;  */
+    /* margin-bottom:auto; */
+}
+
+.title{
+   
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+  
+
+} 

@@ -1,0 +1,30 @@
+.card-img-top{
+    top: -120px;    
+    position: absolute;
+    border-radius: 80%;
+    right: 75px;
+    width:270px;
+    right: 60px;
+    /* background-color: aliceblue; */
+    /* flex:1; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* margin-inline-end:60px; */
+}
+
+.body{
+    margin-bottom:100px;
+    margin-inline-start: 10px;
+    margin-inline-end: 60px;
+    margin-block-start: 160px;
+}
+
+.alignment{
+    margin-top: 20px;
+}
+.image{
+    border-radius: 50%;
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) and (orientation: portrait) {
+    }

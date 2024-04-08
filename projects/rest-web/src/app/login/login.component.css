@@ -1,0 +1,30 @@
+.image{
+    background-image: url('../../assets/bg3.avif');
+    height: 650px;
+    width: 800px;
+    background-size: cover;
+}
+.login{
+    padding:40px;
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-left: 150px;
+    /* justify-content: center;
+    align-items: center; */
+    /* margin-top: 1000; */
+    /* background-color:lightgray; */
+    /* height: 400; */
+}
+
+
+.text{
+    background-color: antiquewhite;
+}
+.side-bar{
+    flex-direction: row;
+}
+.title{
+    margin-top: 320px;
+    margin-left: 180px;
+    color:white;
+}
