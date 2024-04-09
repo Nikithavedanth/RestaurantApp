@@ -1,12 +1,9 @@
 <div class="container" id="menu">
     <h2>Our Menu Today</h2>
-    <!-- <button class="btn btn-info" (click)="GetMenuObject()">Get Mars Photos</button> -->
+  
     <div class="d-flex ms-4">
         <div *ngFor="let item of menuObject.categories " style="width:400px;">
             
-            <!-- <div class="card-header"> -->
-                <!-- <h3>{{item.strCategory}}</h3> -->
-            <!-- </div> -->
             <div>
                 <dl>
                     <!-- <dt>Menu Image</dt> -->
@@ -35,7 +32,8 @@
                     <h5 style="margin-right:190px">{{item.strCategory}}</h5>
                     <h5>Price:${{item.price}}</h5>
                    </div>
-                    <button class="btn btn-primary" style="margin-top:100px;margin-left:140px" (click)="GetMenuDescription">Load more</button>
+                    <button class="btn btn-primary" style="margin-top:100px;margin-left:140px" 
+                  >Load more</button>
                 </dl>
             </div>
         </div>

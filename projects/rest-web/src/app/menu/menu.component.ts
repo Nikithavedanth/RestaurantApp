@@ -10,16 +10,16 @@ import axios from 'axios';
   styleUrl: './menu.component.css'
 })
 export class MenuComponent {
-menuObject:any = {};
-ngOnInit(){
-  this.GetMenuObject();
-}
-GetMenuObject(){
-  fetch('../../assets/mealsdb.json').then(response=>response.json()).then(data=>{
-    this.menuObject=data
-  })
-}
-GetMenuDescription(){
+  menuObject:any = {};
+  ngOnInit(){
+    this.getMenuObject();
+  }
+  getMenuObject(){
+    fetch('../../assets/categories.json').then(response=>response.json()).then(data=>{
+      this.menuObject=data
+    })
+  }
+// GetMenuDescription(){
   
-}
+// }
 }

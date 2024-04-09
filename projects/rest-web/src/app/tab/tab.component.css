@@ -19,3 +19,10 @@
   
 
 } 
+
+.image{
+    background-image: url('../../assets/bg3.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
