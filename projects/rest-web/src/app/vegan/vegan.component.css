@@ -26,28 +26,3 @@
     border-radius: 50%;
     /* margin-right: 30px; */
 }
-
-@media only screen and (min-width: 481px) and (max-width: 768px) and (orientation: portrait) {
-    }
-
-.title{
-    margin-right: 40px;
-    margin-left: 30px;
-}
-
-.scroll-container {
-    /* width: 100%; */
-    overflow-x: auto;
-    white-space: nowrap;
-    scrollbar-width: none;  
-    /* width: calc( 100px);  */
-  }
-  
-   .scroll-content { 
-    /* display: inline-block; */
-    white-space: nowrap;
-   }
-  .item {
-    display: inline-block;
-    margin-right: 10px; 
-  }

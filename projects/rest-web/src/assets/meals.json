@@ -55,6 +55,648 @@
             "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
             "idMeal": 52764,
             "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "beef": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "chicken": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "lamb": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "tacos": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "pasta": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "pork": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "side": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "starter": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "vegan": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "vegetarian": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "breakfast": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
+        }
+    ],
+    "goat": [
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": 52959,
+            "price": 23
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": 52819,
+            "price": 18
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": 52944,
+            "price": 30
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": 53043,
+            "price": 15
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": 52802,
+            "price": 20
+        },
+        {
+            "strMeal": "Fish Soup (Ukha)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+            "idMeal": 53079,
+            "price": 27
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": 52918,
+            "price": 19
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": 52764,
+            "price": 23
         }
     ]
 }

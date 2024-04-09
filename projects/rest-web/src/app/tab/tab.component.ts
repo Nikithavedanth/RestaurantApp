@@ -11,7 +11,8 @@ import { Router } from '@angular/router';
   templateUrl: './tab.component.html',
   styleUrl: './tab.component.css'
 })
-export class TabComponent implements OnInit {
+export class TabComponent 
+implements OnInit {
   constructor( private router: Router){
 
   }
