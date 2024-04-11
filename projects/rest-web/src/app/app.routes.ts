@@ -20,6 +20,7 @@ import { VeganComponent } from './vegan/vegan.component';
 import { VegetarianComponent } from './vegetarian/vegetarian.component';
 import { BreakfastComponent } from './breakfast/breakfast.component';
 import { GoatComponent } from './goat/goat.component';
+import { MenuCardComponent } from './menu-card/menu-card.component';
 
 export const routes: Routes = [
     {path:'login',component:LoginComponent},
@@ -42,6 +43,7 @@ export const routes: Routes = [
     {path:'vegan', component:VeganComponent},
     {path:'vegetarian', component:VegetarianComponent},
     {path:'breakfast', component:BreakfastComponent},
-    {path:'goat', component:GoatComponent}
+    {path:'goat', component:GoatComponent},
+    {path:'menucard', component:MenuCardComponent}
     
 ];

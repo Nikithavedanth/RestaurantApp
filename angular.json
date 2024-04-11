@@ -25,6 +25,8 @@
               "projects/rest-web/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "projects/rest-web/src/styles.css"
             ],
             "scripts": [],
@@ -89,6 +91,7 @@
               "projects/rest-web/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
               "projects/rest-web/src/styles.css"
             ],
             "scripts": []
