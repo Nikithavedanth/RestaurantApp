@@ -1,72 +1,55 @@
 <div>
-<div class="d-flex justify-content-center  align-items-center">
-<ngb-carousel>
-    <ng-template ngbSlide *ngFor="let slide of slides">
-      <img [src]="slide.image" alt="slide" width="1500" height="400px">
-    
-       
-    </ng-template>
-</ngb-carousel>
-</div>
-<br>
-<h1 style="text-align:center;">MENU TODAY</h1>
-<div class="d-flex" style="margin-left: 300px;margin-top:100px">
-
-    
-    <div class=" scroll-container">
-        
-            <div class="scroll-content">
-            <div *ngFor="let item of menuObject.categories " class="item">
-                
-                <div>
-                    <dl>
-                        <!-- <dt>Menu Image</dt> -->
-                        <img style="margin-left: 10px;" (click)="getMenuDescription(item.idCategory)" class="image" [src]="item.strCategoryThumb" alt="Card image cap"height="100px" width="70px"> 
-                        <h5  style="margin-left: 10px;" style="margin-top: 10px;">{{item.strCategory}}</h5>
-                        <!-- <dt>CategoryDescription</dt> -->
-                        <!-- <dd>{{item.strCategoryDescription}}</dd> -->
-                    </dl>
+    <div class="d-flex justify-content-center  align-items-center">
+        <ngb-carousel>
+            <ng-template ngbSlide *ngFor="let slide of slides">
+                <img [src]="slide.image" alt="slide" width="1500" height="400px">
+            </ng-template>
+        </ngb-carousel>
+    </div>
+    <br>
+    <h1 style="text-align:center; margin-bottom: 75px;">MENU TODAY</h1>
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col">
+            <div class="scroll-container">
+                <div class="scroll-content">
+                    <div *ngFor="let item of menuObject.categories" class="item">
+                        <div>
+                            <dl>
+                                <!-- <dt>Menu Image</dt> -->
+                                <img (click)="getMenuDescription(item.idCategory)" class="image" [src]="item.strCategoryThumb" alt="Card image cap"height="100px" width="70px"> 
+                                <h5>{{item.strCategory}}</h5>
+                                <!-- <dt>CategoryDescription</dt> -->
+                                <!-- <dd>{{item.strCategoryDescription}}</dd> -->
+                            </dl>
+                        </div>
+                    </div>
                 </div>
             </div>
-        
         </div>
-
-    </div>
-
-    <div style="margin-bottom: 100px;">
-        <div>
-            <div class="border border-dark" style="margin-left: 90px;">
-                <h1  style="margin-left: 250px;">MENU CARD</h1>
-                <div class="d-flex" style="justify-content:space-between">
+        <div class="col-6">
+            <div class="border border-dark">
+                <h1 style="margin: 10px;" class="text-center">MENU CARD</h1>
+                <div class="d-flex justify-content-around text-center">
                     <h2>Menu Items</h2>
+                    <p></p>
                     <h2>Prices</h2>
                 </div>
-            <div *ngFor="let item of menuObject.categories " class="item  ">
-                
-                <div>
-                    <ul class="d-flex" style="margin-left: 50px;justify-content:space-between;" >
-                        <!-- <dt>Menu Image</dt> -->
-                        <div>
-                        
-                        <h5 class="title" style="margin-right: 500px;">{{item.strCategory}}</h5 >  
-                        </div>
-                        <div>
-                       
-                        <!-- <p>{{item.strCategoryDescription}}</p> -->
-                        <h5 class="price">$ {{item.price}}</h5>
-                        </div>
-                        <!-- <dt>CategoryDescription</dt> -->
-                        <!-- <dd>{{item.strCategoryDescription}}</dd> -->
-                    </ul>
+            <div *ngFor="let item of menuObject.categories " class="item">
+                <div class="row">
+                    <div class="col-2"></div>
+                    <div class="col-7">
+                        <h3 class="title">{{item.strCategory}}</h3>
+                        <p class="dish-description" style="text-align: justify; font-size: 12px;">This is a description text for the dish, displayed at the bottom of it's name.</p>  
+                    </div>
+                    <div class="col-2">
+                        <h5 class="price text-center">$ {{item.price}}</h5>
+                    </div>
+                    <div class="col"></div>
                 </div>
             </div>
-          </div>
         </div>
-
+        </div>
+        <div class="col-2"></div>
     </div>
-    <div>
-
-    </div>
-
-</div>
 </div>
