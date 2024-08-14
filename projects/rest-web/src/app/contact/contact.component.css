@@ -1,0 +1,13 @@
+.padding{
+    padding: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.adjustment{
+    /* flex: 1; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

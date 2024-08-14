@@ -11,5 +11,5 @@ import { HomeComponent } from '../home/home.component';
   styleUrl: './login.component.css'
 })
 export class LoginComponent {
-
+    
 }
